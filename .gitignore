@@ -1,0 +1,11 @@
+# Dependencies
+/task-manager/node_modules
+/task-manager/build
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
